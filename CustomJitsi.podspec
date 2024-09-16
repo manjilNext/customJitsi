@@ -24,7 +24,7 @@ spec.summary      = "A short description of CustomJitsi."
 #   * Try to keep it short, snappy and to the point.
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
-s.description = "CustomJitsi is a framework for seamlessly integrating the Jitsi video conferencing platform into your iOS application. It provides easy-to-use APIs for embedding video calls, customizing the user interface, and handling call events, all with minimal setup."
+spec.description = "CustomJitsi is a framework for seamlessly integrating the Jitsi video conferencing platform into your iOS application. It provides easy-to-use APIs for embedding video calls, customizing the user interface, and handling call events, all with minimal setup."
 
 
 spec.homepage     = "https://github.com/manjilNext/customJitsi.git"
