@@ -80,7 +80,7 @@ spec.platform     = :ios, '13.0'
 #  Supports git, hg, bzr, svn and HTTP.
 #
 
-spec.source       = { :git => "https://github.com/manjilNext/customJitsi.git", :tag => "#{spec.version}" }
+spec.source       = { :git => "https://github.com/manjilNext/customJitsi.git" }
 
 
 # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
